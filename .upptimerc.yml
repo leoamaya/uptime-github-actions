@@ -8,7 +8,7 @@ sites:
   - name: Anubis
     url: https://vault.amaya.net.ar
   - name: Osiris
-    url: https://vault.amaya.net.ar
+    url: https://osiris.amaya.net.ar
 
 
 status-website:
